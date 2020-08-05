@@ -1,0 +1,2 @@
+# springcloud_test_config_repo
+springcloud config的github仓库，用于存储配置文件
